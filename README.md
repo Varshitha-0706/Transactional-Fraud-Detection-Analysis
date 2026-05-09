@@ -33,9 +33,18 @@ The primary objective of this project is to design and develop a robust machine 
 
 ## 📊 Dataset
 
-- **Source:** Kaggle Credit Card Fraud Dataset  
+- **Source:** Kaggle Credit Card Fraud Dataset
+- Kaggle Credit Card Fraud Detection Dataset:
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud (An excellent, standard dataset
+for this problem).
 - **Total Transactions:** 284,807  
 - **Fraud Cases:** 492 (0.17%)  
+
+Pandas Documentation: https://pandas.pydata.org/docs/
+● Seaborn Tutorial: https://seaborn.pydata.org/tutorial.html
+● Scikit-learn Guide to Classification:
+https://scikit-learn.org/stable/supervised_learning.html#supervised-learning
+
 
 ### ⚠️ Key Challenge:
 > The dataset is highly imbalanced, making fraud detection a complex classification problem.
@@ -113,6 +122,7 @@ Therefore, maximizing recall is critical.
 👉 XGBoost achieved the best balance between fraud detection and minimizing false positives.
 
 ---
+POWER BI DASHBOARD LINK(.pbix):
 
 ## 🔍 Feature Importance
 
