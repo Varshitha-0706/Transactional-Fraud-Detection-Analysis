@@ -1,0 +1,7 @@
+*.csv
+*.zip
+*.pkl
+*.joblib
+data/
+models/
+dashboard/
